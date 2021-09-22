@@ -15,7 +15,7 @@ $ pip install futures
 
 $ pkg install git
 
-$ git clone https://github.com/adit-x/bef
+$ git clone https://github.com/adit-zuck/bef
 
 RUN SCNYA
 
